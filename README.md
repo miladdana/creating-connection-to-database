@@ -1,1 +1,1 @@
-# basalam_connection_data_query
+# how to creating connection to the database with python 
