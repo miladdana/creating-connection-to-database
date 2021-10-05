@@ -1,0 +1,5 @@
+user="analytics_lmtdr_dana"
+password=")F^Ykt[{9Y6!c4n'p5UXg4?2UAN2#w?J6-Mp<@;:"
+host="gw.basalam.com"
+port="12348"
+database="basalam.ir"
